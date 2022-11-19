@@ -1,0 +1,73 @@
+body{
+    background-image: linear-gradient(45deg, rgb(121, 138, 144), rgb(93, 157, 183));
+    font-family: Helvetica ;
+    text-align: center;
+    margin: 7px;
+}
+
+h4{
+    font-size: 16px;
+    margin: 4px;
+    color: beige;
+}
+
+.letrah4{
+    background-image: linear-gradient(45deg, rgb(98, 111, 116), rgb(87, 148, 172));
+    padding: 4px;
+    color:beige
+}
+
+input{
+    background-color: rgb(126 148 169);
+    border-radius: 6px;
+    border-color: rgb(81, 108, 119);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin: 7px;
+    border-width: 4px;
+    text-align: center;
+    color: beige;
+    cursor:pointer;
+}
+
+input:hover{
+    transition: 1.2s;
+    background-color: rgb(112, 131, 150);
+    border-radius: 7px;
+    border-color:rgb(38, 46, 49) ;
+    cursor: pointer;
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 18px ;
+    transition-delay: 0.3s;
+    color: beige;
+}
+
+button{
+    background-color: rgb(126 148 169);
+    border-radius: 6px;
+    border-color: rgb(81, 108, 119);
+    border-top: none;
+    border-left: none;
+    padding: 7px;
+    border-right: none;
+    margin: 7px;
+    border-width: 4px;
+    text-align: center;
+    color: beige;
+    cursor:pointer;
+}
+
+button:hover{
+    transition: 1.2s;
+    background-color: rgb(112, 131, 150);
+    border-radius: 7px;
+    border-color:rgb(38, 46, 49) ;
+    cursor: pointer;
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 18px ;
+    transition-delay: 0.3s;
+    color: beige;
+}
